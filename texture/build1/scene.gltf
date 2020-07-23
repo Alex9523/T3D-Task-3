@@ -1,0 +1,379 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        6.5714688301086426,
+        56.265823364257812,
+        11.252459526062012
+      ],
+      "min": [
+        -21.18657112121582,
+        30.379552841186523,
+        -11.54046630859375
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99999982118606567,
+        0.99998503923416138,
+        0.99999856948852539
+      ],
+      "min": [
+        -0.999991774559021,
+        -0.999969482421875,
+        -0.99998760223388672
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99652600288391113,
+        0.99942499399185181
+      ],
+      "min": [
+        0.00074200000381097198,
+        0.0038890000432729721
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 267114,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        -4.8262290954589844,
+        56.259654998779297,
+        15.535715103149414
+      ],
+      "min": [
+        -23.613838195800781,
+        30.360725402832031,
+        -11.470410346984863
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99998378753662109,
+        0.99999493360519409,
+        0.99999850988388062
+      ],
+      "min": [
+        -0.99997639656066895,
+        -0.9999879002571106,
+        -0.99999099969863892
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.99673497676849365,
+        0.99975299835205078
+      ],
+      "min": [
+        0.0017130000051110983,
+        0.0030739998910576105
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1068456,
+      "componentType": 5125,
+      "count": 238836,
+      "max": [
+        65531
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 24445,
+      "max": [
+        6.5556039810180664,
+        56.265731811523438,
+        12.171869277954102
+      ],
+      "min": [
+        -23.619396209716797,
+        30.372150421142578,
+        -11.430746078491211
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3438876,
+      "componentType": 5126,
+      "count": 24445,
+      "max": [
+        0.99987143278121948,
+        0.99986457824707031,
+        0.99999850988388062
+      ],
+      "min": [
+        -0.9999997615814209,
+        -0.99971228837966919,
+        -0.99926716089248657
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 24445,
+      "max": [
+        0.99707597494125366,
+        0.9995729923248291
+      ],
+      "min": [
+        0.00090300000738352537,
+        0.0037269999738782644
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2023800,
+      "componentType": 5125,
+      "count": 94047,
+      "max": [
+        24444
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Limerick3D (https://sketchfab.com/Limerick3D)",
+      "license": "CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)",
+      "source": "https://sketchfab.com/3d-models/traditional-irish-cottage-rathkeale-limerick-75811f72c1d54c609a3c2e1778d4066d",
+      "title": "Traditional Irish Cottage - Rathkeale - Limerick"
+    },
+    "generator": "Sketchfab-7.80.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2399988,
+      "byteOffset": 0,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1244072,
+      "byteOffset": 2399988,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3732216,
+      "byteOffset": 3644060,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7376276,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/LimerickModelHouseLow_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "LimerickModelHouseLow",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "baseColorTexture": {
+          "index": 0,
+          "texCoord": 0
+        },
+        "metallicFactor": 0,
+        "roughnessFactor": 0.59999999999999998
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "name": "RootNode (gltf orientation matrix)",
+      "rotation": [
+        -0.70710678118654746,
+        -0,
+        -0,
+        0.70710678118654757
+      ]
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0.99593418836593628,
+        -0.09008365124464035,
+        0,
+        0,
+        0.09008365124464035,
+        0.99593418836593628,
+        0,
+        0,
+        -0.003847822081297636,
+        3.9099373817443848,
+        1
+      ],
+      "name": "RootNode (model correction matrix)"
+    },
+    {
+      "children": [
+        3,
+        4,
+        5
+      ],
+      "name": "LimerickModelHouseLow.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": ""
+    },
+    {
+      "mesh": 1,
+      "name": ""
+    },
+    {
+      "mesh": 2,
+      "name": ""
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "OSG_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
+

@@ -1,0 +1,14 @@
+{
+  "name": "react-tutorial",
+  "version": "1.0.0",
+  "description": "React tutorial",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Oleksandr Siaskyi",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
